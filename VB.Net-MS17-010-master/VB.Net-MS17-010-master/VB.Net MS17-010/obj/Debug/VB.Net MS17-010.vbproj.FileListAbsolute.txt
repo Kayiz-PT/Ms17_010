@@ -1,0 +1,10 @@
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\bin\Debug\VB.Net MS17-010.exe.config
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\bin\Debug\VB.Net MS17-010.exe
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\bin\Debug\VB.Net MS17-010.pdb
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\bin\Debug\VB.Net MS17-010.xml
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net_MS17_010.Resources.resources
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net MS17-010.vbproj.GenerateResource.cache
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net MS17-010.vbproj.CoreCompileInputs.cache
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net MS17-010.exe
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net MS17-010.xml
+C:\Users\nhoxa\OneDrive\Desktop\VB.Net-MS17-010-master\VB.Net-MS17-010-master\VB.Net MS17-010\obj\Debug\VB.Net MS17-010.pdb
